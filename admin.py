@@ -1,5 +1,6 @@
 import requests
 import os
+import  webbrowser
 os.system("clear")
 
 #======== color ======#
@@ -26,7 +27,9 @@ print("""\033[0;96m
 ██╔══██║██║░░██║██║╚██╔╝██║██║██║╚████║  ░░████╔═████║░██╔═══╝░
 ██║░░██║██████╔╝██║░╚═╝░██║██║██║░╚███║  ░░╚██╔╝░╚██╔╝░██║░░░░░
 ╚═╝░░╚═╝╚═════╝░╚═╝░░░░░╚═╝╚═╝╚═╝░░╚══╝  ░░░╚═╝░░░╚═╝░░╚═╝░░░░░
+            Channel Telegram : @TYG_YE
 """)
+webbrowser.open("https://t.me/TYG_YE")
 url = input("\033[90m╔═══[root@Sami]\n╚══>>>   \033[32m")
 print("\n\n")
 lists = ['/wp-login.php','/admin/','/wp-config.php','/admin.php','/cpanal','/cpanal','','/wp-content/plugins/wp-useronline/','/wp-content/plugins/imagemagick-engine/','/wp-content/plugins/3dady-real-time-web-stats/','/admin/index.php'] 
