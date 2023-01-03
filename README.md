@@ -11,7 +11,7 @@ It is a tool to display the admin panel easily and quickly
 
 4-`git clone https://github.com/mr-sami-x/admin_found.git`
 
-5-`cd webpage`
+5-`cd admin_found`
 
 6-`python admin.py`
 
@@ -24,7 +24,7 @@ It is a tool to display the admin panel easily and quickly
 
 4-`git clone https://github.com/mr-sami-x/admin_found.git`
 
-5-`cd webpage`
+5-`cd admin_found`
 
 6-`python admin.py`
 ### Coded By Mr Sami
